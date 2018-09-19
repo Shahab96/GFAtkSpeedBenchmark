@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GFAtkSpeedBenchmark", "GFAtkSpeedBenchmark\GFAtkSpeedBenchmark.vcxproj", "{252D5A50-7166-4BC3-943A-CA7CF21146F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{252D5A50-7166-4BC3-943A-CA7CF21146F6}.Debug|x64.ActiveCfg = Debug|x64
+		{252D5A50-7166-4BC3-943A-CA7CF21146F6}.Debug|x64.Build.0 = Debug|x64
+		{252D5A50-7166-4BC3-943A-CA7CF21146F6}.Debug|x86.ActiveCfg = Debug|Win32
+		{252D5A50-7166-4BC3-943A-CA7CF21146F6}.Debug|x86.Build.0 = Debug|Win32
+		{252D5A50-7166-4BC3-943A-CA7CF21146F6}.Release|x64.ActiveCfg = Release|x64
+		{252D5A50-7166-4BC3-943A-CA7CF21146F6}.Release|x64.Build.0 = Release|x64
+		{252D5A50-7166-4BC3-943A-CA7CF21146F6}.Release|x86.ActiveCfg = Release|Win32
+		{252D5A50-7166-4BC3-943A-CA7CF21146F6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC8E456F-AA0F-4DA2-B2A1-47A877AEFF8E}
+	EndGlobalSection
+EndGlobal
